@@ -3,161 +3,161 @@
 
     {
       "name": "Monster",
-      "image": "https://plusnexus8.github.io/a.jpg",
+      "image": "file:///android_asset/a.jpg",
       "link_mods": "https://plusnexus8.github.io/a.zip",
       "link_saves": "",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Monster 2",
-      "image": "https://plusnexus8.github.io/b.jpg",
+      "image": "file:///android_asset/b.jpg",
       "link_mods": "https://plusnexus8.github.io/b.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Army",
-      "image": "https://plusnexus8.github.io/c.jpg",
+      "image": "file:///android_asset/c.jpg",
       "link_mods": "https://plusnexus8.github.io/c.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Army 2",
-      "image": "https://plusnexus8.github.io/d.jpg",
+      "image": "file:///android_asset/d.jpg",
       "link_mods": "https://plusnexus8.github.io/d.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Army 3",
-      "image": "https://plusnexus8.github.io/e.jpg",
+      "image": "file:///android_asset/e.jpg",
       "link_mods": "https://plusnexus8.github.io/e.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Army 4",
-      "image": "https://plusnexus8.github.io/d.jpg",
+      "image": "file:///android_asset/d.jpg",
       "link_mods": "https://plusnexus8.github.io/d.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Army 5",
-      "image": "https://plusnexus8.github.io/e.jpg",
+      "image": "file:///android_asset/e.jpg",
       "link_mods": "https://plusnexus8.github.io/e.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Army 6",
-      "image": "https://plusnexus8.github.io/f.jpg",
+      "image": "file:///android_asset/f.jpg",
       "link_mods": "null",
       "link_saves": "https://plusnexus8.github.io/f.zip",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "SCP",
-      "image": "https://plusnexus8.github.io/g.jpg",
+      "image": "file:///android_asset/g.jpg",
       "link_mods": "https://plusnexus8.github.io/g.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/h.jpg",
+      "image": "file:///android_asset/h.jpg",
       "link_mods": "https://plusnexus8.github.io/h.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/h.jpg",
+      "image": "file:///android_asset/h.jpg",
       "link_mods": "https://plusnexus8.github.io/h.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/i.jpg",
+      "image": "file:///android_asset/i.jpg",
       "link_mods": "https://plusnexus8.github.io/i.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/j.jpg",
+      "image": "file:///android_asset/j.jpg",
       "link_mods": "https://plusnexus8.github.io/j.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/k.jpg",
+      "image": "file:///android_asset/k.jpg",
       "link_mods": "https://plusnexus8.github.io/k.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/l.jpg",
+      "image": "file:///android_asset/l.jpg",
       "link_mods": "https://plusnexus8.github.io/l.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/m.jpg",
+      "image": "file:///android_asset/m.jpg",
       "link_mods": "https://plusnexus8.github.io/m.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/n.jpg",
+      "image": "file:///android_asset/n.jpg",
       "link_mods": "https://plusnexus8.github.io/n.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/o.jpg",
+      "image": "file:///android_asset/o.jpg",
       "link_mods": "https://plusnexus8.github.io/o.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/p.jpg",
+      "image": "file:///android_asset/p.jpg",
       "link_mods": "https://plusnexus8.github.io/p.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/q.jpg",
+      "image": "file:///android_asset/q.jpg",
       "link_mods": "https://plusnexus8.github.io/q.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/r.jpg",
+      "image": "file:///android_asset/r.jpg",
       "link_mods": "https://plusnexus8.github.io/r.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/s.jpg",
+      "image": "file:///android_asset/s.jpg",
       "link_mods": "https://plusnexus8.github.io/s.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/t.jpg",
+      "image": "file:///android_asset/t.jpg",
       "link_mods": "https://plusnexus8.github.io/t.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
@@ -165,35 +165,35 @@
 
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/u.jpg",
+      "image": "file:///android_asset/u.jpg",
       "link_mods": "https://plusnexus8.github.io/u.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/v.jpg",
+      "image": "file:///android_asset/v.jpg",
       "link_mods": "https://plusnexus8.github.io/v.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/w.jpg",
+      "image": "file:///android_asset/w.jpg",
       "link_mods": "https://plusnexus8.github.io/w.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/x.jpg",
+      "image": "file:///android_asset/x.jpg",
       "link_mods": "https://plusnexus8.github.io/x.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
     },
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/y.jpg",
+      "image": "file:///android_asset/y.jpg",
       "link_mods": "https://plusnexus8.github.io/y.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
@@ -201,7 +201,7 @@
 
     {
       "name": "Guns",
-      "image": "https://plusnexus8.github.io/z.jpg",
+      "image": "file:///android_asset/z.jpg",
       "link_mods": "https://plusnexus8.github.io/z.zip",
       "link_saves": "null",
       "description": "maybe image of mod not relevan so you can download all mod in here, Free !!!!"
